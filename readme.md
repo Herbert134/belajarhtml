@@ -86,9 +86,13 @@
 <h5>Heading 5</h5>
 <h6>Heading 6</h6>
 
+
+
 ## HTML Paragraphs
 <p> This is a paragraph.</p>
 <p> This is another paragraph.</p>
+
+
 
 ## HTML Styles 
 <tagname style="property:value;">
@@ -96,5 +100,26 @@
 <h1>This is a heading</h1>
 <p>This is a paragraph.</p>
 </body>
+
+
+
+## HTML Text Formatting
+<b>THis text is bold</b>
+<strong>This text is important!</strong>
+<i>This text is italic</i>
+<em>This text is emphasized</em>
+<small>This is some smaller text.</small>
+<p>Do not forget to buy <mark>milk</mark>today.</p>
+<p>My favorite color is <del>blue</del> red.</p>
+<p>This is <sub>subscripted</sub> text.</p>
+<p>This is <sup>superscripted</sup> text.</p>
+
+
+
+## HTML QUotation and Citation Elements
+<p>Here is a quote from WWWF's wewbsite:</p>
+<blockquote cite="http://www.worldwildlife.org/who/index.html">
+For 60 years, WWF has worked to help people and nature thrive. As the world's leading conservation organization, WWF works in nearly 100 countries. At every level, wew collaborate with people around the world to develop and deliver innovative solutions that protect communities, wilflife, and the places in which they live.
+</blockquote>
 
 
